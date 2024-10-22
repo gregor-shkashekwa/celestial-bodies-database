@@ -1,0 +1,18 @@
+[1.24µs] Shutting down all processes 
+[503.23µs] Terminating process supervisor with PID 36 (state: S, cmdlind: [supervisor run] <nil>). 
+[45.661217ms] Terminating main process errored: waitid: no child processes 
+[46.195977ms] Terminating process bash with PID 562 (state: S, cmdlind: [/usr/bin/bash --init-file /ide/out/vs/workbench/contrib/terminal/common/scripts/shellIntegration-bash.sh] <nil>). 
+[46.229477ms] Terminating main process errored: waitid: no child processes 
+[46.384987ms] Terminating process node with PID 68 (state: S, cmdlind: [/ide/node /ide/out/server-main.js --log=info --install-builtin-extension gitpod.gitpod-theme --install-builtin-extension github.vscode-pull-request-github --install-extension coderoad.coderoad --port 23000 --host 0.0.0.0 --without-connection-token --server-data-dir /workspace/.vscode-remote --do-not-sync --start-server] <nil>). 
+[46.679707ms] Terminating process node with PID 482 (state: S, cmdlind: [/ide/node /ide/out/bootstrap-fork --type=fileWatcher] <nil>). 
+[46.698117ms] Terminating process node with PID 539 (state: S, cmdlind: [/ide/node /ide/extensions/redhat.vscode-yaml/dist/languageserver.js --node-ipc --clientProcessId=471] <nil>). 
+[46.721097ms] Terminating main process errored: waitid: no child processes 
+[46.734017ms] Terminating main process errored: waitid: no child processes 
+[46.818417ms] Terminating process node with PID 551 (state: S, cmdlind: [/ide/node /ide/out/bootstrap-fork --type=ptyHost --logsPath /workspace/.vscode-remote/data/logs/20241022T061047] <nil>). 
+[46.839367ms] Terminating process node with PID 471 (state: R, cmdlind: [/ide/node --dns-result-order=ipv4first /ide/out/bootstrap-fork --type=extensionHost --transformURIs --useHostProxy=false] <nil>). 
+[46.865197ms] Terminating main process errored: waitid: no child processes 
+[46.871247ms] Terminating main process errored: waitid: no child processes 
+[75.144055ms] Terminating main process errored: waitid: no child processes 
+[76.279555ms] Couldn't obtain process information for PID 482. 
+[76.714305ms] Couldn't obtain process information for PID 551. 
+[76.811505ms] Finished shutting down all processes. 
